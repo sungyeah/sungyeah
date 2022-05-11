@@ -3,9 +3,11 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungyeah&layout=compact)](https://github.com/sungyeah/github-readme-stats)
+<!-- 
 
-<!--
 **sungyeah/sungyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' width="300px" src="https://user-images.githubusercontent.com/98869025/167796367-f52c14c9-303c-48d2-974b-00b26b7ca4b5.png">
+
 
 Here are some ideas to get you started:
 
@@ -17,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+--!>
+
